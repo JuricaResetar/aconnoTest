@@ -1,0 +1,13 @@
+<map id="ConfigParams::getGroupFromIndex" name="ConfigParams::getGroupFromIndex">
+<area shape="rect" id="node2" href="$class_config_params.html#a4dd1219fcaf47b7ea97171eacf78e054" title="ConfigParams::groupNameFrom\lIndex" alt="" coords="249,5,460,47"/>
+<area shape="rect" id="node7" href="$class_config_params.html#a9d31270aa2203c215770162ff06a2595" title="ConfigParams::getParam" alt="" coords="525,154,694,181"/>
+<area shape="rect" id="node8" href="$class_config_params.html#ad87407ed45b29bd3b0a44c1b5bedeb1e" title="ConfigParams::getParamValue" alt="" coords="508,209,711,235"/>
+<area shape="rect" id="node9" href="$class_config_params.html#adfa72ecab1c0557805e582cdc36eeb2a" title="ConfigParams::indexToGroup\lIndex" alt="" coords="257,173,452,215"/>
+<area shape="rect" id="node10" href="$class_config_params.html#af1a0493a76eed013c00b6a6fd81d793f" title="ConfigParams::getParamSize" alt="" coords="512,71,707,98"/>
+<area shape="rect" id="node11" href="$class_config_params.html#af29a4a54e3c88b0e6d63e5abe4eab4ec" title="ConfigParams::paramsUpdate" alt="" coords="510,274,709,301"/>
+<area shape="rect" id="node3" href="$settings_8h.html#ad947b9f3917b2c050abf18fa2b864e08" title="Update current param buffer with the requested parameter. Also save to flash all parameter values if ..." alt="" coords="759,21,952,47"/>
+<area shape="rect" id="node4" href="$settings_8h.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="1000,46,1127,73"/>
+<area shape="rect" id="node5" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="1175,46,1284,73"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="1332,46,1383,73"/>
+<area shape="rect" id="node12" href="$settings_8h.html#a160c37ed78f7e2ba4dc3f907d2153b6c" title="Update the current parameter value with the value pressent in the current parameter buffer..." alt="" coords="776,274,935,301"/>
+</map>

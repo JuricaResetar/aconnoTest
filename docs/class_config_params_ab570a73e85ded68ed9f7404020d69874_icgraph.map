@@ -1,0 +1,5 @@
+<map id="ConfigParams::addGroup" name="ConfigParams::addGroup">
+<area shape="rect" id="node2" href="$settings_8h.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="223,5,349,32"/>
+<area shape="rect" id="node3" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="397,5,507,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="555,5,605,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="slotsSetAdvInterval" name="slotsSetAdvInterval">
+<area shape="rect" id="node2" href="$settings_8cpp.html#a801ab4bd7e75171249d4665b14ccb877" title="Get a pointer to parameter value. " alt="" coords="189,5,328,32"/>
+<area shape="rect" id="node3" href="$class_config_params.html#a2fd69c07e34e5d3e79c1a1d228919ad9" title="ConfigParams::getParamValue" alt="" coords="376,5,579,32"/>
+<area shape="rect" id="node4" href="$class_config_params.html#a8c1e52b73c35feaf09ad641e16497f7f" title="ConfigParams::getParam" alt="" coords="627,5,796,32"/>
+<area shape="rect" id="node5" href="$class_config_params.html#ae05e425916de17393347baa32f4c014e" title="ConfigParams::emptyGroup" alt="" coords="844,5,1028,32"/>
+<area shape="rect" id="node6" href="$class_config_params.html#a3eb8be14334049e85127c26b1a4081a4" title="ConfigParams::validGroup" alt="" coords="1076,5,1251,32"/>
+</map>

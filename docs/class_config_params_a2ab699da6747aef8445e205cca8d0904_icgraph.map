@@ -1,0 +1,7 @@
+<map id="ConfigParams::getTotalNumParams" name="ConfigParams::getTotalNumParams">
+<area shape="rect" id="node2" href="$class_config_params.html#ab570a73e85ded68ed9f7404020d69874" title="ConfigParams::addGroup" alt="" coords="241,5,411,32"/>
+<area shape="rect" id="node3" href="$settings_8h.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="459,31,585,57"/>
+<area shape="rect" id="node6" href="$settings_8h.html#a160c37ed78f7e2ba4dc3f907d2153b6c" title="Update the current parameter value with the value pressent in the current parameter buffer..." alt="" coords="247,107,405,133"/>
+<area shape="rect" id="node4" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="633,31,743,57"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="791,31,841,57"/>
+</map>

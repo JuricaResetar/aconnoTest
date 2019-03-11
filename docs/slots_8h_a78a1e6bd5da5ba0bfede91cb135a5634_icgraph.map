@@ -1,0 +1,6 @@
+<map id="slotsGetAdvData" name="slotsGetAdvData">
+<area shape="rect" id="node2" href="$slots_8h.html#adae482392d79a233d7f54da394d14284" title="slotsSetCurrSlot" alt="" coords="177,5,296,32"/>
+<area shape="rect" id="node4" href="$slots_8h.html#af45a37e75824271aca51a9cf020ee5c3" title="slotsSetAdvData" alt="" coords="176,56,297,83"/>
+<area shape="rect" id="node5" href="$slots_8h.html#ac9157863cff0d009f364eaae9af8cc0a" title="slotAdvUpdateC" alt="" coords="177,107,296,133"/>
+<area shape="rect" id="node3" href="$slots_8h.html#ab82b29cfd8a656175f3dc781ff78c4fc" title="slotsInit" alt="" coords="345,5,413,32"/>
+</map>

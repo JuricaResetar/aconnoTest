@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['cccd_5fmd',['cccd_md',['../structchar_dest__t.html#ae7838dbeabf4e2f2c236bd84191e6c53',1,'charDest_t']]],
+  ['char_5fmd',['char_md',['../structchar_dest__t.html#a7becba1783c09ab25273b7fde010e8ec',1,'charDest_t']]],
+  ['chardesc',['charDesc',['../class_aconno_b_l_e_char.html#a7eb84b4d71d10f7fc04c947164c07326',1,'AconnoBLEChar']]],
+  ['chars',['chars',['../class_aconno_b_l_e_service.html#a08d7e558ca421929fc1f2492a0a8182e',1,'AconnoBLEService']]],
+  ['conf_5fgroup_5fuuid',['CONF_GROUP_UUID',['../class_s_e_r_v_i_c_e___n_a_m_e.html#a70be01aa6e0041ef09e92cdf83f24738',1,'SERVICE_NAME']]],
+  ['confgroup',['confGroup',['../struct_s_e_r_v_i_c_e___i_n_i_t___t.html#aed744cfe841bf7e4b2cb146b05ecd598',1,'SERVICE_INIT_T']]],
+  ['configgroupname',['configGroupName',['../struct_config_group.html#a7a413c21dd42b3d7dbcef83cb339beaf',1,'ConfigGroup']]],
+  ['conn_5fhandle',['conn_handle',['../structble__cus__s.html#ae1c745fc2b94e1c53e3ce0e626a6b02e',1,'ble_cus_s']]],
+  ['cparamvalue',['cparamValue',['../union_param_value.html#ad75b5006a1257a23b196f754fb15ea1f',1,'ParamValue']]],
+  ['curr_5fparam_5fuuid',['CURR_PARAM_UUID',['../class_s_e_r_v_i_c_e___n_a_m_e.html#a8ac580b03857d579e34aff6ffe977bd5',1,'SERVICE_NAME']]],
+  ['curr_5fslot_5fuuid',['CURR_SLOT_UUID',['../class_slot_service.html#ae237e4eb528222ef6f6c8508ba544c43',1,'SlotService']]],
+  ['currconnhandle',['currConnHandle',['../classaconno_g_a_t_t.html#afecb61d4eb231192f65d0c26bd483959',1,'aconnoGATT']]],
+  ['currparam',['currParam',['../struct_s_e_r_v_i_c_e___i_n_i_t___t.html#a3f86009d9edf514b7242969999252f99',1,'SERVICE_INIT_T']]],
+  ['currslot',['currSlot',['../structinit__slot__service__t.html#a21bdb3f0faf17ab747c63e2e7c665647',1,'init_slot_service_t::currSlot()'],['../struct_slots.html#aa146d74ae00fd701f091a617a1ebfebf',1,'Slots::currSlot()']]],
+  ['cus',['cus',['../structaconno_b_l_e_service_desc__t.html#a11290b0c6c5db2733cb2b1e001be32e8',1,'aconnoBLEServiceDesc_t']]],
+  ['cus_5finit',['cus_init',['../structaconno_b_l_e_service_desc__t.html#a58e58ce7685fcda88c2896c763da23f1',1,'aconnoBLEServiceDesc_t']]],
+  ['custom_5fvalue_5fchar_5fattr_5fmd',['custom_value_char_attr_md',['../structble__cus__init__t.html#ab2fd6d45ec905417ffc8bc0bbd8beef6',1,'ble_cus_init_t']]],
+  ['custom_5fvalue_5fhandles',['custom_value_handles',['../structble__cus__s.html#afbe9da02430eccbb851c901103839ac7',1,'ble_cus_s']]]
+];

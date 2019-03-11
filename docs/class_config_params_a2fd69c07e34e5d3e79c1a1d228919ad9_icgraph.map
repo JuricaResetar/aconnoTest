@@ -1,0 +1,11 @@
+<map id="ConfigParams::getParamValue" name="ConfigParams::getParamValue">
+<area shape="rect" id="node2" href="$class_config_params.html#ad87407ed45b29bd3b0a44c1b5bedeb1e" title="ConfigParams::getParamValue" alt="" coords="256,5,459,32"/>
+<area shape="rect" id="node3" href="$settings_8h.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="511,56,638,83"/>
+<area shape="rect" id="node6" href="$settings_8h.html#a801ab4bd7e75171249d4665b14ccb877" title="Get a pointer to parameter value. " alt="" coords="288,157,427,184"/>
+<area shape="rect" id="node10" href="$settings_8h.html#ad947b9f3917b2c050abf18fa2b864e08" title="Update current param buffer with the requested parameter. Also save to flash all parameter values if ..." alt="" coords="261,107,454,133"/>
+<area shape="rect" id="node4" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="691,81,800,108"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="848,81,899,108"/>
+<area shape="rect" id="node7" href="$slots_8h.html#a12e2841a1ea31fe30079d275a088425d" title="slotsSetAdvInterval" alt="" coords="507,157,643,184"/>
+<area shape="rect" id="node8" href="$slots_8h.html#a0bc2f5688a03eea85c8453435fcc43c8" title="slotsSetRadioTx" alt="" coords="515,208,634,235"/>
+<area shape="rect" id="node9" href="$slots_8h.html#ac9157863cff0d009f364eaae9af8cc0a" title="slotAdvUpdateC" alt="" coords="515,259,634,285"/>
+</map>

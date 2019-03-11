@@ -1,0 +1,7 @@
+<map id="settingsGetValuePtr" name="settingsGetValuePtr">
+<area shape="rect" id="node2" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="205,5,315,32"/>
+<area shape="rect" id="node4" href="$slots_8h.html#a12e2841a1ea31fe30079d275a088425d" title="slotsSetAdvInterval" alt="" coords="192,56,328,83"/>
+<area shape="rect" id="node5" href="$slots_8h.html#a0bc2f5688a03eea85c8453435fcc43c8" title="slotsSetRadioTx" alt="" coords="201,107,319,133"/>
+<area shape="rect" id="node6" href="$slots_8h.html#ac9157863cff0d009f364eaae9af8cc0a" title="slotAdvUpdateC" alt="" coords="201,157,319,184"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="376,5,427,32"/>
+</map>

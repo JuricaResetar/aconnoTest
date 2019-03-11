@@ -1,0 +1,35 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$aconno_helpers_8cpp.html#a2508fad025e49f9746b6c178dce6917e" title="Clear bond information /*/ void delete_bonds(void) { NRF_LOG_INFO(&quot;Erase bonds!&quot;); }..." alt="" coords="169,5,232,32"/>
+<area shape="rect" id="node3" href="$aconno_helpers_8cpp.html#a78ab77b57cf2e00089f0a3a22508524c" title="Function for initializing the clock. " alt="" coords="162,56,239,83"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a620021e4edf79e7e6d8d886614631e64" title="initTaskFunction" alt="" coords="141,107,260,133"/>
+<area shape="rect" id="node5" href="$aconno_helpers_8cpp.html#ae04975d66c6746be4cacfd3d4636480f" title="Function for the Timer initialization. " alt="" coords="159,157,242,184"/>
+<area shape="rect" id="node6" href="$aconno_helpers_8cpp.html#acee27cfef9e26874f05f7954db2d3b59" title="Function for starting application timers. " alt="" coords="137,209,264,250"/>
+<area shape="rect" id="node8" href="$aconno_b_l_e_8cpp.html#a5fdf9b751dbc6d73498bbd823f2f2f66" title="getAconnoBLEInstance" alt="" coords="1053,325,1211,352"/>
+<area shape="rect" id="node9" href="$class_aconno_b_l_e.html#a95a816c9d0e1043f68a35efedd186771" title="AconnoBLE::initBLEStack" alt="" coords="113,275,288,301"/>
+<area shape="rect" id="node14" href="$classaconno_g_a_t_t.html#a3850588551c4070b72e5da26833ad96f" title="Function for initializing the GATT module. " alt="" coords="121,427,281,453"/>
+<area shape="rect" id="node15" href="$class_aconno_g_a_p.html#afb42617aa34bbae147323adb85c80ab2" title="AconnoGAP::startAdvertising" alt="" coords="104,477,297,504"/>
+<area shape="rect" id="node16" href="$settings_8cpp.html#adf48c26408a967ded0a905dce79c2f29" title="Initializer function for settings. " alt="" coords="157,528,244,555"/>
+<area shape="rect" id="node17" href="$basic__config_8cpp.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="146,376,255,403"/>
+<area shape="rect" id="node7" href="$aconno_helpers_8h.html#ab0d5c9b349efe1958d2c504075cce887" title="delete_bonds" alt="" coords="367,123,465,149"/>
+<area shape="rect" id="node10" href="$aconno_b_l_e_8cpp.html#a41eb4deadd05b126c24a79a218eca614" title="Function for handling BLE events. " alt="" coords="575,275,688,301"/>
+<area shape="rect" id="node11" href="$class_aconno_g_a_p.html#a9cec4751082925af4c2756e1dde66a0d" title="AconnoGAP::gapInit" alt="" coords="345,173,487,200"/>
+<area shape="rect" id="node12" href="$class_aconno_g_a_p.html#a2075aa095bcd492770a39dbc20aa098d" title="AconnoGAP::advInit" alt="" coords="345,224,487,251"/>
+<area shape="rect" id="node13" href="$aconno_g_a_p_8cpp.html#a32825b998db2c4006e083f539e86bac9" title="Function for handling advertising events. " alt="" coords="587,224,676,251"/>
+<area shape="rect" id="node18" href="$settings_8cpp.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="353,544,479,571"/>
+<area shape="rect" id="node33" href="$basic__config_8cpp.html#abe43d67d521d58cea064f3326075faa4" title="basicConfigUpdate" alt="" coords="349,376,483,403"/>
+<area shape="rect" id="node34" href="$settings_8cpp.html#a801ab4bd7e75171249d4665b14ccb877" title="Get a pointer to parameter value. " alt="" coords="562,848,701,875"/>
+<area shape="rect" id="node19" href="$class_config_params.html#ab570a73e85ded68ed9f7404020d69874" title="ConfigParams::addGroup" alt="" coords="547,544,716,571"/>
+<area shape="rect" id="node22" href="$class_config_params.html#a3eb8be14334049e85127c26b1a4081a4" title="ConfigParams::validGroup" alt="" coords="1761,713,1936,740"/>
+<area shape="rect" id="node23" href="$class_config_params.html#a2ab699da6747aef8445e205cca8d0904" title="ConfigParams::getTotalNum\lParams" alt="" coords="783,478,971,519"/>
+<area shape="rect" id="node24" href="$class_config_params.html#af1a0493a76eed013c00b6a6fd81d793f" title="ConfigParams::getParamSize" alt="" coords="780,899,975,925"/>
+<area shape="rect" id="node27" href="$class_config_params.html#a2fd69c07e34e5d3e79c1a1d228919ad9" title="ConfigParams::getParamValue" alt="" coords="776,848,979,875"/>
+<area shape="rect" id="node29" href="$class_aconno_b_l_e_char.html#af36617a9d671f8ee303000708d2077ef" title="AconnoBLEChar::setValue" alt="" coords="788,376,967,403"/>
+<area shape="rect" id="node30" href="$class_aconno_b_l_e_char.html#a5b3d7363811a917f5bb3d15384d3222a" title="AconnoBLEChar::getLen" alt="" coords="794,645,961,672"/>
+<area shape="rect" id="node31" href="$settings_8cpp.html#ad947b9f3917b2c050abf18fa2b864e08" title="Update current param buffer with the requested parameter. Also save to flash all parameter values if ..." alt="" coords="535,696,728,723"/>
+<area shape="rect" id="node20" href="$class_config_params.html#ab2bd60295566761c77545340e2757717" title="ConfigParams::getTotalNum\lGroups" alt="" coords="1038,529,1226,570"/>
+<area shape="rect" id="node21" href="$class_config_params.html#ae05e425916de17393347baa32f4c014e" title="ConfigParams::emptyGroup" alt="" coords="1529,713,1713,740"/>
+<area shape="rect" id="node25" href="$class_config_params.html#af96697c121042991d8590da1174a52b9" title="ConfigParams::getGroupFrom\lIndex" alt="" coords="1285,847,1481,889"/>
+<area shape="rect" id="node26" href="$class_config_params.html#adfa72ecab1c0557805e582cdc36eeb2a" title="ConfigParams::indexToGroup\lIndex" alt="" coords="1035,907,1229,949"/>
+<area shape="rect" id="node28" href="$class_config_params.html#a8c1e52b73c35feaf09ad641e16497f7f" title="ConfigParams::getParam" alt="" coords="1047,805,1217,832"/>
+<area shape="rect" id="node32" href="$class_config_params.html#a4dd1219fcaf47b7ea97171eacf78e054" title="ConfigParams::groupNameFrom\lIndex" alt="" coords="1027,739,1237,781"/>
+</map>

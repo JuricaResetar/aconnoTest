@@ -1,0 +1,4 @@
+<map id="aconnoBLEServiceDesc_t" name="aconnoBLEServiceDesc_t">
+<area shape="rect" id="node2" href="$structble__cus__s.html" title="Custom Service structure. This contains various status information for the service. " alt="" coords="37,5,204,127"/>
+<area shape="rect" id="node3" href="$structble__cus__init__t.html" title="Battery Service init structure. This contains all options and data needed for initialization of the s..." alt="" coords="128,189,327,296"/>
+</map>

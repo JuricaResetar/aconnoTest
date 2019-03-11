@@ -1,0 +1,10 @@
+<map id="slotsSetCurrSlot" name="slotsSetCurrSlot">
+<area shape="rect" id="node2" href="$slots_8cpp.html#a841692feddff8259ac01a128273f7d31" title="slotsGetCurrSlot" alt="" coords="183,5,301,32"/>
+<area shape="rect" id="node3" href="$slots_8cpp.html#a9e4c4a4fa25754a1189ff4e1b994cf79" title="slotsGetFrameType" alt="" coords="173,56,311,83"/>
+<area shape="rect" id="node4" href="$slots_8cpp.html#a78a1e6bd5da5ba0bfede91cb135a5634" title="slotsGetAdvData" alt="" coords="181,107,303,133"/>
+<area shape="rect" id="node5" href="$slots_8cpp.html#a5cc27a0a57b70189d0b9b83f617cd5db" title="slotsGetAdvInterval" alt="" coords="173,157,311,184"/>
+<area shape="rect" id="node6" href="$slots_8cpp.html#a1ada56f03e61c4d8f3e161e49ee040bc" title="slotsGetRssi1m" alt="" coords="184,208,300,235"/>
+<area shape="rect" id="node7" href="$slots_8cpp.html#aa5c529bc286128c437e5ee6498741687" title="slotsGetRadioTx" alt="" coords="182,259,302,285"/>
+<area shape="rect" id="node8" href="$slots_8cpp.html#a67b8acdfde620fa7da967db46fc623af" title="slotsGetTriggEnable" alt="" coords="172,309,312,336"/>
+<area shape="rect" id="node9" href="$slots_8cpp.html#a7fe2d692e1317ecc767f168b3dcf3a95" title="slotsGetTriggType" alt="" coords="177,360,307,387"/>
+</map>

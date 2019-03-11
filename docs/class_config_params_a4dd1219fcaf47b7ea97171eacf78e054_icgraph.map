@@ -1,0 +1,6 @@
+<map id="ConfigParams::groupNameFromIndex" name="ConfigParams::groupNameFromIndex">
+<area shape="rect" id="node2" href="$settings_8h.html#ad947b9f3917b2c050abf18fa2b864e08" title="Update current param buffer with the requested parameter. Also save to flash all parameter values if ..." alt="" coords="264,13,457,39"/>
+<area shape="rect" id="node3" href="$settings_8h.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="505,13,632,39"/>
+<area shape="rect" id="node4" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="680,13,789,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="837,13,888,39"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AconnoBLE" name="AconnoBLE">
+<area shape="rect" id="node2" href="$class_aconno_g_a_p.html" title="{AconnoGAP\n||+ AconnoGAP()\l+ gapInit()\l+ advInit()\l+ startAdvertising()\l}" alt="" coords="5,757,139,879"/>
+<area shape="rect" id="node3" href="$classaconno_g_a_t_t.html" title="{aconnoGATT\n|+ currConnHandle\l|+ aconnoGATT()\l+ GATTInit()\l+ getFreeSrvUUID()\l}" alt="" coords="163,765,303,871"/>
+<area shape="rect" id="node4" href="$class_aconno_b_l_e_service.html" title="{AconnoBLEService\n||+ AconnoBLEService()\l+ serviceInit()\l+ addChar()\l+ getFreeCharUUID()\l}" alt="" coords="156,587,311,708"/>
+<area shape="rect" id="node5" href="$class_aconno_b_l_e_char.html" title="{AconnoBLEChar\n||+ AconnoBLEChar()\l+ charInit()\l+ getLen()\l+ setValue()\l+ getValue()\l}" alt="" coords="61,388,200,524"/>
+<area shape="rect" id="node6" href="$structchar_dest__t.html" title="Charachteristic descriptor. " alt="" coords="69,189,192,325"/>
+<area shape="rect" id="node7" href="$structaconno_b_l_e_service_desc__t.html" title="{aconnoBLEServiceDesc_t\n||}" alt="" coords="225,417,399,495"/>
+<area shape="rect" id="node8" href="$structble__cus__s.html" title="Custom Service structure. This contains various status information for the service. " alt="" coords="241,5,407,127"/>
+<area shape="rect" id="node9" href="$structble__cus__init__t.html" title="Battery Service init structure. This contains all options and data needed for initialization of the s..." alt="" coords="331,204,530,311"/>
+</map>

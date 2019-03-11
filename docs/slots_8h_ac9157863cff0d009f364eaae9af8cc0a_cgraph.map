@@ -1,0 +1,13 @@
+<map id="slotAdvUpdateC" name="slotAdvUpdateC">
+<area shape="rect" id="node2" href="$settings_8cpp.html#a801ab4bd7e75171249d4665b14ccb877" title="Get a pointer to parameter value. " alt="" coords="183,5,321,32"/>
+<area shape="rect" id="node7" href="$basic__config_8cpp.html#a1d98bc6b28555395daa6512757a64256" title="basicConfigEnumToTX" alt="" coords="173,56,331,83"/>
+<area shape="rect" id="node8" href="$slots_8cpp.html#a78a1e6bd5da5ba0bfede91cb135a5634" title="slotsGetAdvData" alt="" coords="191,107,313,133"/>
+<area shape="rect" id="node9" href="$slots_8cpp.html#aa5c529bc286128c437e5ee6498741687" title="slotsGetRadioTx" alt="" coords="192,157,312,184"/>
+<area shape="rect" id="node10" href="$slots_8cpp.html#a5cc27a0a57b70189d0b9b83f617cd5db" title="slotsGetAdvInterval" alt="" coords="183,208,321,235"/>
+<area shape="rect" id="node11" href="$settings_8cpp.html#a2f9c58ed995b206704fba4aad3dfb3aa" title="Get a pointer to parameter. " alt="" coords="409,157,553,184"/>
+<area shape="rect" id="node12" href="$parameter_8h.html#a03b8ce330bb871b9d9a7a9994ff3e0e4" title="parameterGetValueSize" alt="" coords="172,309,332,336"/>
+<area shape="rect" id="node3" href="$class_config_params.html#a2fd69c07e34e5d3e79c1a1d228919ad9" title="ConfigParams::getParamValue" alt="" coords="380,56,583,83"/>
+<area shape="rect" id="node4" href="$class_config_params.html#a8c1e52b73c35feaf09ad641e16497f7f" title="ConfigParams::getParam" alt="" coords="631,107,800,133"/>
+<area shape="rect" id="node5" href="$class_config_params.html#ae05e425916de17393347baa32f4c014e" title="ConfigParams::emptyGroup" alt="" coords="848,107,1032,133"/>
+<area shape="rect" id="node6" href="$class_config_params.html#a3eb8be14334049e85127c26b1a4081a4" title="ConfigParams::validGroup" alt="" coords="1080,107,1255,133"/>
+</map>

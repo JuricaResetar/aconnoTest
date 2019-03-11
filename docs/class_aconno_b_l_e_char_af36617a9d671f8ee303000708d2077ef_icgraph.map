@@ -1,0 +1,8 @@
+<map id="AconnoBLEChar::setValue" name="AconnoBLEChar::setValue">
+<area shape="rect" id="node2" href="$settings_8h.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="473,5,600,32"/>
+<area shape="rect" id="node5" href="$settings_8h.html#ad947b9f3917b2c050abf18fa2b864e08" title="Update current param buffer with the requested parameter. Also save to flash all parameter values if ..." alt="" coords="232,31,425,57"/>
+<area shape="rect" id="node6" href="$settings_8h.html#a160c37ed78f7e2ba4dc3f907d2153b6c" title="Update the current parameter value with the value pressent in the current parameter buffer..." alt="" coords="249,81,408,108"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a6411700cc06739e53648cf8c101f4b77" title="blinkyFunction" alt="" coords="275,132,382,159"/>
+<area shape="rect" id="node3" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="648,5,757,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="805,5,856,32"/>
+</map>

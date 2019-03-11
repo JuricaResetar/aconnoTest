@@ -1,0 +1,16 @@
+<map id="ConfigParams::getParam" name="ConfigParams::getParam">
+<area shape="rect" id="node2" href="$class_config_params.html#a1175c26520b3677eaface5fa6619e7fd" title="ConfigParams::getParam" alt="" coords="239,5,409,32"/>
+<area shape="rect" id="node3" href="$class_config_params.html#a2fd69c07e34e5d3e79c1a1d228919ad9" title="ConfigParams::getParamValue" alt="" coords="223,107,425,133"/>
+<area shape="rect" id="node12" href="$settings_8h.html#ad947b9f3917b2c050abf18fa2b864e08" title="Update current param buffer with the requested parameter. Also save to flash all parameter values if ..." alt="" coords="478,31,671,57"/>
+<area shape="rect" id="node13" href="$class_config_params.html#a824aa1e24554756a3b371d3539779879" title="ConfigParams::getParamSize" alt="" coords="227,157,421,184"/>
+<area shape="rect" id="node14" href="$settings_8h.html#a2f9c58ed995b206704fba4aad3dfb3aa" title="Get a pointer to parameter. " alt="" coords="503,233,647,260"/>
+<area shape="rect" id="node15" href="$settings_8h.html#a160c37ed78f7e2ba4dc3f907d2153b6c" title="Update the current parameter value with the value pressent in the current parameter buffer..." alt="" coords="245,259,403,285"/>
+<area shape="rect" id="node4" href="$class_config_params.html#ad87407ed45b29bd3b0a44c1b5bedeb1e" title="ConfigParams::getParamValue" alt="" coords="473,132,676,159"/>
+<area shape="rect" id="node5" href="$settings_8h.html#a74c3a460e053a1f1318285266e41847f" title="Add a settings group. Maximum number of groups is MAX_GROUPS. " alt="" coords="729,31,855,57"/>
+<area shape="rect" id="node8" href="$settings_8h.html#a801ab4bd7e75171249d4665b14ccb877" title="Get a pointer to parameter value. " alt="" coords="505,183,644,209"/>
+<area shape="rect" id="node6" href="$basic__config_8h.html#aabe4da9635ea03f9d5a02e79faa982de" title="basicConfigInit" alt="" coords="908,107,1017,133"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title="Function for application main entry. " alt="" coords="1065,107,1116,133"/>
+<area shape="rect" id="node9" href="$slots_8h.html#a12e2841a1ea31fe30079d275a088425d" title="slotsSetAdvInterval" alt="" coords="724,81,860,108"/>
+<area shape="rect" id="node10" href="$slots_8h.html#a0bc2f5688a03eea85c8453435fcc43c8" title="slotsSetRadioTx" alt="" coords="733,132,851,159"/>
+<area shape="rect" id="node11" href="$slots_8h.html#ac9157863cff0d009f364eaae9af8cc0a" title="slotAdvUpdateC" alt="" coords="733,233,851,260"/>
+</map>
